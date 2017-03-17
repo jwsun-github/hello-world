@@ -1,5 +1,5 @@
-x = int(input("please type in a number:"))
-y = int(input("please type in another number:"))
+x = 3
+y = 3
 
 if x==y :
 	print("Hello World! The numbers you enter are equal!")
